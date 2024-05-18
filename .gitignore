@@ -70,3 +70,26 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/[Ss]treamingAssets/*
+/[Aa]ssets/[Ss]treamingAssets.meta
+
+# World Assets
+/[Aa]ssets/AllSkyFree
+/[Aa]ssets/AllSkyFree.meta
+/[Aa]ssets/filamented-master
+/[Aa]ssets/filamented-master.meta
+/[Aa]ssets/Mochie
+/[Aa]ssets/Mochie.meta
+/[Aa]ssets/ProceduralTerrainPainter
+/[Aa]ssets/ProceduralTerrainPainter.meta
+/[Aa]ssets/UdonSharp
+/[Aa]ssets/UdonSharp.meta
+/[Aa]ssets/VegetationSpawner
+/[Aa]ssets/VegetationSpawner.meta
+/[Aa]ssets/kleinba/World
+/[Aa]ssets/kleinba/World.meta
+/[Aa]ssets/Scenes/VRCDefaultWorldScene
+/[Aa]ssets/Scenes/VRCDefaultWorldScene.meta
+/[Aa]ssets/TextMesh Pro/*
+/[Aa]ssets/TextMesh Pro.meta
+/[Pp]ackages/com.vrchat.core.vpm-resolver/*
