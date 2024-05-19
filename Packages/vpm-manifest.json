@@ -11,9 +11,6 @@
     },
     "dev.architech.sdk": {
       "version": "0.15.1"
-    },
-    "aurycat.udonportals": {
-      "version": "1.4.1"
     }
   },
   "locked": {
@@ -42,12 +39,6 @@
       "version": "0.15.5",
       "dependencies": {
         "com.vrchat.worlds": "^3.4"
-      }
-    },
-    "aurycat.udonportals": {
-      "version": "1.4.1",
-      "dependencies": {
-        "com.vrchat.worlds": "^3.2.2"
       }
     }
   }
